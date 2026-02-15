@@ -2,3 +2,4 @@
 # 加入Dress
 我玩github有2个月了，感谢[豆包](https://doubao.com/chat)和[DeepSeek](https://chat.deepseek.com)
 <img src="I/inf2147483647/img.jpg" width=250>
+估计是全仓库最明显的了
